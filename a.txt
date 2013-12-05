@@ -1,7 +1,3 @@
 <<<<<<< HEAD
 josh was here
-
-DOES THIS WORK?fff
->>>>>>> b504354fbba29cb4d2778291bb49096d53ffff5f
-
-THIS IS A GUI COMMIT
+rWffffff
